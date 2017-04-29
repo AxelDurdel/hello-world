@@ -15,20 +15,16 @@ using System.Windows.Shapes;
 
 namespace helloWorld
 {
-	/// <summary>
-	/// Interaktionslogik für MainWindow.xaml
-	/// </summary>
 	public partial class MainWindow : Window
 	{
 		public MainWindow()
 		{
 			InitializeComponent();
-			//test
-			//test 2
-			//test 3
 		}
-		
-		//aus dem netz
-		//Test vom Tower2
+
+		private void button_Click(object sender, RoutedEventArgs e)
+		{
+			label.Content = "Hello World";
+		}
 	}
 }
