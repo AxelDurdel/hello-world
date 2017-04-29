@@ -1,0 +1,14 @@
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\bin\Debug\helloWorld.exe.config
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\bin\Debug\helloWorld.exe
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\bin\Debug\helloWorld.pdb
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\obj\Debug\helloWorld.csprojResolveAssemblyReference.cache
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\obj\Debug\MainWindow.g.cs
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\obj\Debug\App.g.cs
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\obj\Debug\helloWorld_MarkupCompile.cache
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\obj\Debug\helloWorld_MarkupCompile.lref
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\obj\Debug\MainWindow.baml
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\obj\Debug\helloWorld.g.resources
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\obj\Debug\helloWorld.Properties.Resources.resources
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\obj\Debug\helloWorld.csproj.GenerateResource.Cache
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\obj\Debug\helloWorld.exe
+D:\Daten\VisualStudioRepositories\hello-world\helloWorld\obj\Debug\helloWorld.pdb
