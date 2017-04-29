@@ -25,7 +25,7 @@ namespace helloWorld
 		private void button_Click(object sender, RoutedEventArgs e)
 		{
 			label.Content = "Hello World";
-            label.Background = Brushes.Red;
+			label.Background = Brushes.Green;
 		}
 	}
 }
