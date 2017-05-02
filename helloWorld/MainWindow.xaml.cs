@@ -29,7 +29,7 @@ namespace helloWorld
             label.Background = Brushes.Red;
 	    label.Visibility = Visibility.Visible;
 	    //Kommentar
-        //kommentar Nr2
+        //kommentar Nr21
 		}
 	}
 }
