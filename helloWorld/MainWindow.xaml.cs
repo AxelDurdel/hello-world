@@ -28,12 +28,6 @@ namespace helloWorld
 			label.Background = Brushes.LightBlue;
             label.Background = Brushes.Red;
 	    label.Visibility = Visibility.Visible;
-	    //Kommentar
-        //kommentar Nr21
-	
-	//MEINE ÄNDERUNG
-	//Server
-	//SERVER 2
 		}
 	}
 }
