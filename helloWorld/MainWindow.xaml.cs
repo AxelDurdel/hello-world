@@ -28,8 +28,7 @@ namespace helloWorld
 			label.Background = Brushes.LightBlue;
 			label.Background = Brushes.Red;
 			label.Visibility = Visibility.Visible;
-			//Github2
-			//github.com
+			//sauber
 		}
 	}
 }
