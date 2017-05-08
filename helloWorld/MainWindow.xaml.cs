@@ -29,8 +29,7 @@ namespace helloWorld
 			label.Background = Brushes.Red;
 			label.Visibility = Visibility.Visible;
 			//Github2
-			//github.com
-			//Tower
+			//dreckig
 		}
 	}
 }
