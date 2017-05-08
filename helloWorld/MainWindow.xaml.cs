@@ -27,8 +27,9 @@ namespace helloWorld
 			label.Content = "Hello World";
 			label.Background = Brushes.LightBlue;
 			label.Background = Brushes.Red;
-	    	label.Visibility = Visibility.Visible;
+			label.Visibility = Visibility.Visible;
 			//Test vom Rechner
+			//Test von github.com
 		}
 	}
 }
