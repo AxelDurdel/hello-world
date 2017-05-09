@@ -28,7 +28,7 @@ namespace helloWorld
 			label.Background = Brushes.LightBlue;
 			
 			
-			//Github
+			//Github2
 		}
 	}
 }
